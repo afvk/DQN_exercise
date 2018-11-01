@@ -3,7 +3,7 @@
 """
 Created on Thu Oct 25 16:25:09 2018
 
-@author: arent
+@author: afvk
 """
 
 import pickle

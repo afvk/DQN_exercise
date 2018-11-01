@@ -3,7 +3,7 @@
 """
 Created on Thu Oct 25 16:22:25 2018
 
-@author: arent
+@author: afvk
 """
 
 import gym
